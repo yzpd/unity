@@ -1,0 +1,38 @@
+fileFormatVersion: 2
+guid: f9f52aa3d673d8046bc56172508c2a64
+timeCreated: 1578846063
+licenseType: Free
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - SecBtnObj1: {instanceID: 0}
+  - SecBtnObj2: {instanceID: 0}
+  - SecBtnObj3: {instanceID: 0}
+  - SecBtnObj4: {instanceID: 0}
+  - SecBtnObj5: {instanceID: 0}
+  - SecBtnObj6: {instanceID: 0}
+  - SecBtnObj7: {instanceID: 0}
+  - SecBtnObj8: {instanceID: 0}
+  - SecBtnObj9: {instanceID: 0}
+  - SecInput1: {instanceID: 0}
+  - SecInput2: {instanceID: 0}
+  - SecInput3: {instanceID: 0}
+  - SecInput4: {instanceID: 0}
+  - SecInput5: {instanceID: 0}
+  - SecInput6: {instanceID: 0}
+  - SecInput7: {instanceID: 0}
+  - SecInput8: {instanceID: 0}
+  - SecInput9: {instanceID: 0}
+  - FirstBtn: {instanceID: 0}
+  - MasterPanel: {instanceID: 0}
+  - FirstName: {instanceID: 0}
+  - FirstTitle: {instanceID: 0}
+  - FirstIntro: {instanceID: 0}
+  - BtnNum: {instanceID: 0}
+  - ButtonNum: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
